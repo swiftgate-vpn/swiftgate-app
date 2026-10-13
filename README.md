@@ -6,7 +6,7 @@
 
 | Устройство | Файл | Как поставить |
 |---|---|---|
-| Windows | [SwiftGate-Windows-Setup.exe](Windows/SwiftGate-Windows-Setup.exe) | запустить установщик |
+| Windows | [SwiftGate-Windows-Setup.exe](Windows/SwiftGate-Windows-Setup.exe) | запустить установщик. Разрешение Windows спрашивает один раз - при установке; дальше программа открывается с ярлыка без вопроса. Закрытие окна не выключает VPN: программа остаётся значком у часов |
 | Mac | [SwiftGate-Mac.dmg](Mac/SwiftGate-Mac.dmg) | открыть и **обязательно перетащить SwiftGate в «Программы»** (из окна образа VPN не включится). Первый запуск: Системные настройки → Конфиденциальность и безопасность → «Всё равно открыть» |
 | Android | [SwiftGate-Android.apk](Android/SwiftGate-Android.apk) | открыть файл на телефоне и разрешить установку из этого источника |
 | Android TV | [SwiftGate-AndroidTV.apk](AndroidTV/SwiftGate-AndroidTV.apk) | с флешки или через Downloader |
@@ -30,4 +30,4 @@
 - **Android** - если Play Protect предупредит: «Подробнее» → «Всё равно установить».
 - Антивирус может отдельно ругаться на ядро VPN (xray): так помечают почти все программы обхода блокировок.
 
-Сборки Android обновлены 13.10.2026; Windows, Mac и iPhone - от 07.10.2026. Сайт и личный кабинет: https://swiftgate.org
+Сборки Android и Windows обновлены 13.10.2026; Mac и iPhone - от 07.10.2026. Сайт и личный кабинет: https://swiftgate.org
